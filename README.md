@@ -2,8 +2,8 @@
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
 
 ```
-Name    : SANJAY S
-Reg. No : 212222230132
+Name    : HARISH RAGAVENDRA S
+Reg. No : 212222230045
 ```
 
 # Description: 
@@ -187,4 +187,3 @@ Each prompting technique was successfully applied to specific health support sce
 
 ### Result
 Using diverse prompting techniques significantly improves MediGuide's performance by enabling more relevant, empathetic, and accurate responses tailored to elderly users' health needs. Each technique addresses different challenges—ranging from reasoning and context-awareness to emotional intelligence and multi-modal input handling.
-
